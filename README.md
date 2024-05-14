@@ -2,17 +2,15 @@
 Another password generator.
 User can choose between different options
 
----
 
 ## Screenshot
 <div align="center">
     <img
         src="https://github.com/AyckinnLisa/genpass-CLI/blob/main/screenshot.png"
         alt="DEMO"
-        style="width:50%">
+        style="width:60%">
 </div>
 
----
 
 ## Usage
 1. Download [Python](https://www.python.org/downloads/).
@@ -21,7 +19,6 @@ User can choose between different options
 4. Run the program : ```python3 genpass.py```
 5. To quit the program : CTRL+C or type : !q
 
----
 
 ## Changelog
 Version 1.0 - May 14' 2024
