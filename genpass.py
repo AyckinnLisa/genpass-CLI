@@ -17,7 +17,7 @@ while True:
  # =      - Author    : Ayckinn                                          =
  # =      - Site      : www.ayckinn.fr                                   =
  # =      - Mail      : contact@ayckinn.fr                               =
- # =      - Release   : May 20' 2024                                     =
+ # =      - Release   : May 14' 2024                                     =
  # =      - Github    : https://github.com/AyckinnLisa?tab=repositories  =
  # =      - Copyright : 2024 - ayckinn.fr                                =
  # ======================================================================='''))
